@@ -1,5 +1,5 @@
 
-
+# This is part one... part two will build on top.
 doc = open("input.txt", "rt")
 
 total_points = 0
